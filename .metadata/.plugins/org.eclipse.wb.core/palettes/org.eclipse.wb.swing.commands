@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="jcalendar-1.4_1645010025226"
+		name="jcalendar-1.4"
+		description="Container with import elements from C:\Users\jocsu\Downloads\jcalendar-1.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1645010025226"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1645010025226"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1645010025226"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1645010025226"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1645010025226"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1645010025226"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1645010025226"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1645010025226"/>
+	<removeCategory
+		id="jcalendar-1.4_1645010025226"/>
+	<addCategory
+		id="jcalendar-1.4_1645010053395"
+		name="jcalendar-1.4"
+		description="Container with import elements from C:\Users\jocsu\Downloads\jcalendar-1.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1645010053395"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1645010053395"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1645010053395"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1645010053395"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1645010053395"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1645010053395"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1645010053395"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1645010086012"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1645010086012"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1645010086012"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1645010086012"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1645010086012"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1645010086012"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1645010053395"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1645010086012"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1645010053395"/>
+	<removeCategory
+		id="jcalendar-1.4_1645010053395"/>
+	<moveEntry
+		id="system.layout.absolute"
+		category="org.eclipse.wb.swing.layouts"/>
+	<addCategory
+		id="jcalendar-1.4_1645010189003"
+		name="jcalendar-1.4"
+		description="Container with import elements from C:\Users\jocsu\Downloads\jcalendar-1.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1645010189003"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1645010189003"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1645010189003"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1645010189003"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1645010189003"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1645010189003"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1645010189003"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1645010189003"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1645010189003"/>
+	<removeCategory
+		id="jcalendar-1.4_1645010189003"/>
+	<addCategory
+		id="jcalendar-1.4_1645886476133"
+		name="jcalendar-1.4"
+		description="Container with import elements from C:\Users\jocsu\Downloads\jcalendar-1.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="com.toedter.calendar.JDayChooser_1645886476133"
+		name="JDayChooser"
+		description="Custom component: com.toedter.calendar.JDayChooser"
+		visible="true"
+		class="com.toedter.calendar.JDayChooser"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.calendar.JMonthChooser_1645886476133"
+		name="JMonthChooser"
+		description="Custom component: com.toedter.calendar.JMonthChooser"
+		visible="true"
+		class="com.toedter.calendar.JMonthChooser"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.components.JLocaleChooser_1645886476133"
+		name="JLocaleChooser"
+		description="Custom component: com.toedter.components.JLocaleChooser"
+		visible="true"
+		class="com.toedter.components.JLocaleChooser"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.calendar.JCalendar_1645886476133"
+		name="JCalendar"
+		description="Custom component: com.toedter.calendar.JCalendar"
+		visible="true"
+		class="com.toedter.calendar.JCalendar"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.calendar.JDateChooser_1645886476133"
+		name="JDateChooser"
+		description="Custom component: com.toedter.calendar.JDateChooser"
+		visible="true"
+		class="com.toedter.calendar.JDateChooser"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.components.JSpinField_1645886476133"
+		name="JSpinField"
+		description="Custom component: com.toedter.components.JSpinField"
+		visible="true"
+		class="com.toedter.components.JSpinField"
+		category="jcalendar-1.4_1645886476133"/>
+	<addComponent
+		id="com.toedter.calendar.JYearChooser_1645886476133"
+		name="JYearChooser"
+		description="Custom component: com.toedter.calendar.JYearChooser"
+		visible="true"
+		class="com.toedter.calendar.JYearChooser"
+		category="jcalendar-1.4_1645886476133"/>
+</commands>

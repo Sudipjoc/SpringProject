@@ -1,0 +1,5 @@
+package com.bway.springdemo.Controller;
+
+public class IndexController {
+
+}

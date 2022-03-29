@@ -1,0 +1,40 @@
+package com.services;
+
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import com.db.DB;
+import com.model.Employee;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	@Override
+	public boolean addEmployee(Employee empl) {
+
+		String sql = "insert into employee(Firstname,Middlename,Lastname,address,Email) values(?,?,?,?,?)";
+		
+//		String sql = "insert into employee(Firstname,Middlename,Lastname,address,Email) values('" + emp.getFname()
+//				+ "','" + emp.getMiddlename() + "','" + emp.getLname() + "','" + emp.getEmail() + "','"
+//				+ emp.getAddress() + "')";
+
+		try {
+			PreparedStatement dmd = DB.getConnection().prepareStatement(sql);
+			dmd.setString(1, empl.getFname());
+			dmd.setString(2, empl.getMiddlename());
+			dmd.setString(3, empl.getLname());
+			dmd.setString(3, empl.getAddress());
+			dmd.setString(5, empl.getEmail());
+			
+		
+
+			dmd.execute(sql);
+			return true;
+		} catch (SQLException e) {
+
+			e.printStackTrace();
+		}
+
+		return false;
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;model.com&apos; to &apos;mavendemo/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;mavendemo&apos;&#x0D;&#x0A;- Destination element: &apos;mavendemo/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;mavendemo/src/main/java/model.com&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/resources" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;model.com" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1647776104605" version="1.0"/>
+</session>
